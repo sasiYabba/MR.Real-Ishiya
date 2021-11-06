@@ -1,7 +1,7 @@
 # coding=utf-8
 #!/usr/bin/python
 # coding=utf-8
-# coded by : Mr.Real-Ishiya
+# coded by : Mr.Real-Sasiya
 
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
