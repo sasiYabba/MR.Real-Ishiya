@@ -1,7 +1,7 @@
 # coding=utf-8
 #!/usr/bin/python
 # coding=utf-8
-# coded by : Mr.Real-Ishiya
+# coded by : Mr.Real-sasiya
 
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
@@ -87,7 +87,7 @@ def tech_abm():
     if username =="Real":
         os.system("clear")
         print logo
-        print ("[+] Username : Real (Correct)")
+        print ("[+] Username : sasiya (Correct)")
         passwordss = raw_input("\033[1;97m[+]\033[1;97m Password :\033[1;97m ")
         if passwordss =="Ishiya":
             os.system("clear")
